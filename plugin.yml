@@ -1,0 +1,18 @@
+name: NoMoreCheats
+version: 0.8
+main: com.eric0210.nomorecheats.AntiCheat
+description: It's hard to punish cheaters alone! take this.
+authors:
+- eric0210_
+- oneaddictions
+- funkemunky
+- onenabled
+- mlenkraft_man
+- MSWS
+- Vagdedes
+commands:
+  nomorecheats:
+    description: Prints information about the NoMoreCheats Anti-Cheat
+    usage: /<command>
+    aliases:
+    - nmc

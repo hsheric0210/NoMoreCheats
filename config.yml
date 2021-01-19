@@ -1,0 +1,13 @@
+{
+  Silently: true,
+  AnticheatName: 'AAC',
+  Logging: {
+    Enabled: true,
+    DebugLogEnabled: false,
+    DetectionFormat: '%player% failed %check% [tags: %tags%] [VL: %vl%]',
+  },
+  Prefix: {
+    Ingame: '&r&6[&c%name%&6]> &6',
+    Console: '&r&8[&c%name%&8] &8',
+  }
+}
